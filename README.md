@@ -1,4 +1,4 @@
- <h3 align="left">Hi, I'm Armando Filipe!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
+ <h3 align="left">Hi, I'm Armando!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
   <img src="https://komarev.com/ghpvc/?username=armandofilipe&label=Profile%20views&color=0A66C2&style=flat" alt="armandofilipe" />
  
 ## 📕 About me:
