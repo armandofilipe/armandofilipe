@@ -9,8 +9,8 @@
 
 ## 💻 Connect with me:
 <p align="left">
-  <a href="https://github.com/armandofilipe/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="linkedin.com/in/armandofilipe/" height="50" width="50" /></a>
-  <a href="linkedin.com/in/armandofilipe/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/armandofilipe/" height="50" width="50" /></a>
+  <a href="https://github.com/armandofilipe/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="https://github.com/armandofilipe/" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/armandofilipe/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/armandofilipe/" height="50" width="50" /></a>
   <a href="https://medium.com/@armando.f.cruz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@armando.f.cruz" height="50" width="50" /></a>
   <a href="mailto:armando.f.cruz@hotmail.com" target="blank"><img style="background-color:blue" align="center" src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png" alt="mailto:armando.f.cruz@hotmail.com" height="50" width="50" /></a>
 </p>
