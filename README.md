@@ -5,7 +5,7 @@
 
 🏡 I’m from Brazil.
 
-📫 How to reach me: armando.f.cruz@hotmail.com
+📫 How to reach me: aarmando.f.cruz@gmail.com
 
 ## 💻 Connect with me:
 <p align="left">
